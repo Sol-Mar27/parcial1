@@ -1,0 +1,51 @@
+* {
+    margin: 0px;
+}
+
+.navbar {
+    background-color: #ff3131;
+}
+
+#div-header header a {
+    color: #e3f2fd;
+    margin-left: 50px;
+}
+
+.contenedorInf {
+    overflow: hidden;
+    text-align: center;
+}
+
+h1 {
+    padding-top: 1cm;
+    font-size: 30px;
+}
+
+#div-imagen {
+    overflow: hidden;
+    float: left;
+    padding-top: 1cm;
+    padding-left: 2.5cm;
+    padding-bottom: 0.3cm;
+}
+
+#div-contenido p {
+    padding-top: 1.5cm;
+    text-align: center;
+    padding-left: 3cm;
+    font-weight: 500;
+    padding-bottom: 1.5cm;
+    font-size: 15px;
+}
+
+footer {
+    background-color: #ff3131;
+}
+
+#div-footer-a {
+    padding-top: 30px;
+    text-align: center;
+    color: #e3f2fd;
+    padding-left: 40%;
+    font-size: 15px;
+}
